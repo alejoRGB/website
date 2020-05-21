@@ -22,12 +22,12 @@ links:
     url: "https://www.myphysicslab.com/explain/what-is-a-diff-eq-en.html"
 
 contributions:
-  - title: "Lorenz attractor with particles"
-    author:
-      name: "Juan Carlos Ponce Campuzano"
+  - title: "Lorenz-Atractor-Resolume-Arena-Plugin"
+    author: Alejo Cortiñaz
+      name: "Alejo Cortiñaz"
       url: "https://jcponce.github.io/"
-    url: "https://jcponce.github.io/calculus/velfields/Lorenz/"
-    source: "https://github.com/jcponce/calculus/tree/gh-pages/velfields/Lorenz"
+    url: "https://www.instagram.com/alejo_rgb/?hl=es-la"
+    source: "https://github.com/alejoRGB/Lorenz-Atractor-Resolume-Arena-Plugin"
 ---
 
 In this coding challenge, I show you how to visualization the Lorenz Attractor in Processing (Java).
